@@ -1,0 +1,31 @@
+#d{
+            margin-top: 150px;
+            width: 400px;
+            height: 300px;
+            border: 1px solid black;
+            border-radius: 100%;
+            box-shadow: 1px 5px 5px black;
+          
+        }
+        .h{
+            position: relative;
+            top: 30px;
+        }
+        #day{
+            color:rgb(16, 217, 243);
+            font-size: xx-large;
+
+        }
+        #date{
+            color: hotpink;
+            font-size: xx-large;
+        }
+        #time{
+            color: black;
+            font-size: xx-large;
+        }
+        #b{
+            background-image:url();
+            background-repeat: no-repeat;
+            background-size: 100%;
+        }
